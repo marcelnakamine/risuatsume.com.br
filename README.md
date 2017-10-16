@@ -1,4 +1,4 @@
-# risuatsume-com-br
+# risuatsume
 
 > A Vue.js project
 
